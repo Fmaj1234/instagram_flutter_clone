@@ -1,16 +1,31 @@
 # instagram_flutter_clone
 
-A new Flutter project.
+An Instagram clone app developed with flutter and firebase.
 
-## Getting Started
+## Setup
 
-This project is a starting point for a Flutter application.
+Firebase Panel
 
-A few resources to get you started if this is your first Flutter project:
+Create Firebase Project (https://console.firebase.google.com/);
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+import the file google-service.json and google service into your project to Android and Ios app respectively.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+Post photo posts from camera or gallery
+
+Comment on posts
+
+View all comments on a post
+
+Custom photo feed based on who you follow
+
+Like posts
+
+View all likes on a post
+
+Profile Screen
+
+Follow / Unfollow Users
+
+Edit profile
